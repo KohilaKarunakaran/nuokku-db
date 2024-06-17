@@ -1,0 +1,6 @@
+nimi,ohjaaja,nayttelijat,kesto(minuutti),hankintapaivamaara,kuntoluokitus
+Vuosisadan haat,Marja Pyykko,"Outi,Mikko",86,2021,H4
+Survivor,Barry Levinson,"Ben,Billy",129,2021,H3
+Godland,Hlynur palmason,"Elliott,Ingvar",143,2022,H3
+Pieni kirjakauppa Pariisissa,Sergio Castellitto,"Matilda, Berenice",97,2021,H3
+Hiljainen tytto,Colm Bairead,"Carrie Catherine",95,2022,H4
